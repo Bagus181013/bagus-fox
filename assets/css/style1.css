@@ -1,0 +1,41 @@
+.seratus{
+    font-size: 100px;
+    color: cornflowerblue;
+}
+
+.seratuslimapuluh{
+    font-size: 150px;
+    color: deeppink;
+}
+
+.duaratus{
+    font-size: 130px;
+    color: chartreuse
+}
+
+.delapanpuluh{
+    font-size: 120px;
+    color : forestgreen
+}
+
+.duaratuslimapuluh{
+    font-size: 140px;
+    color: darkmagenta
+}
+
+
+.bg {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 1;
+    float: left;
+    left: 0;
+}
+
+.tulisan {
+    padding-left: 15px;
+    line-height: 20px;
+    font-size: 16px;
+
+  }
